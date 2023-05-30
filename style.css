@@ -1,0 +1,64 @@
+body {
+ background-image: url(background.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  padding: 75px;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+main {
+  color: white;
+}
+
+.logo {
+  text-align: center;
+  height: 100px;
+}
+
+.title {
+  text-align: center;
+  color: #2acb2a;
+}
+
+.titolo {
+  margin: 5px;
+}
+
+.paolo {
+  background-color: #2acb2a;
+  height: 25px;
+  padding: 10px;
+}
+
+h2 {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.Ginocarica {
+  background: #f1c540;
+  height: 30px;
+  width: 300px;
+  border-radius: 5px;
+}
+
+.Mikecarica {
+  background-color: #41c341;
+  height: 30px;
+  width: 550px;
+  border-radius: 5px;
+}
+
+.Fedecarica {
+  background-color: red;
+  height: 30px;
+  width: 150px;
+  border-radius: 5px;
+}
